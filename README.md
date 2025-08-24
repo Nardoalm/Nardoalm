@@ -4,7 +4,7 @@
 💻 Apaixonado por tecnologia e programação  
 📘 Fui aprovado no processo seletivo do IF com 34 acertos de 36 questões  
 🎂 Tenho apenas 16 anos  
-🚀 Estudando JavaScript e desenvolvimento web  
+🚀 Estudando Java e desenvolvimento web  
 
 ---
 
