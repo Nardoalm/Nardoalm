@@ -10,10 +10,11 @@
 
 ### 💡 Tecnologias que estou aprendendo
 
-- HTML5  
-- CSS3  
+- Java
 - JavaScript (ES6+)  
-- Git e GitHub  
+- Gut e Github
+- HTML5
+- CSS3
 
 ---
 
