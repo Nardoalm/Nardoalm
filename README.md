@@ -2,8 +2,6 @@
 
 🎓 Estudante de Informática no Instituto Federal  
 💻 Apaixonado por tecnologia e programação  
-📘 Fui aprovado no processo seletivo do IF com 34 acertos de 36 questões  
-🎂 Tenho apenas 16 anos  
 🚀 Estudando Java e desenvolvimento web  
 
 ---
@@ -12,7 +10,7 @@
 
 - Java
 - JavaScript (ES6+)  
-- Gut e Github
+- Git e Github
 - HTML5
 - CSS3
 
