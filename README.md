@@ -24,10 +24,4 @@
 
 ### 📬 Contato
 
-- 📧 Email: nardodeveloper@gmail.com
-
----
-
-> “Sabedoria é a coisa mais importante, então adquira sabedoria;  
-> E, além de tudo que você adquirir, adquira entendimento.”  
-> — *Provérbios 4:7*
+- 📧 Discord: nardodev.
