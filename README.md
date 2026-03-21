@@ -24,4 +24,4 @@
 
 ### 📬 Contato
 
-- 📧 Discord: nardodev.
+- 📧 Discord: ysubz
