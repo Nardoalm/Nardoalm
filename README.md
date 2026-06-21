@@ -20,8 +20,4 @@
 
 ![Nardoalm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nardoalm&show_icons=true&theme=radical)
 
----
 
-### 📬 Contato
-
-- 📧 Discord: ysubz
