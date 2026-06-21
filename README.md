@@ -1,22 +1,31 @@
-## 👋 Olá! Eu sou o Leonardo
+## 👋 Hi! I'm Leonardo
 
-🎓 Estudante de Informática no Instituto Federal  
-💻 Apaixonado por tecnologia e programação  
-🚀 Estudando Java e desenvolvimento web  
+🎓 Computer Science student at Instituto Federal  
+💻 Passionate about technology and software development  
+🚀 Currently learning Java, backend development, and web technologies  
 
 ---
 
-### 💡 Tecnologias que estou aprendendo
+### 💡 Technologies I'm learning
 
 - Java
-- PHP (Laravel)  
+- Spring Boot
+- PHP (Laravel)
 - HTML5
 - CSS3
+- SQL
+- Git & GitHub
+
+---
+
+### 📌 Currently working on
+
+- Backend development with Java
+- Building web applications
+- Learning software architecture and best practices
 
 ---
 
 ### 📈 GitHub Stats
 
 ![Nardoalm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nardoalm&show_icons=true&theme=radical)
-
-
