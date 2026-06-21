@@ -9,8 +9,7 @@
 ### 💡 Tecnologias que estou aprendendo
 
 - Java
-- JavaScript (ES6+)  
-- Git e Github
+- PHP (Laravel)  
 - HTML5
 - CSS3
 
