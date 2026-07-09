@@ -28,4 +28,4 @@
 
 ### 📈 GitHub Stats
 
-![Nardoalm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nardoalm&show_icons=true&theme=radical)
+![Nardoalm's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nardoalm&theme=radical)
