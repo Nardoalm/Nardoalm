@@ -9,11 +9,11 @@
 ### 💡 Technologies I'm learning
 
 - Java
-- Spring Boot
+- Spring
 - PHP (Laravel)
 - HTML5
 - CSS3
-- SQL
+- DATABASE
 - Git & GitHub
 
 ---
