@@ -11,10 +11,6 @@
 - Java
 - Spring
 - PHP (Laravel)
-- HTML5
-- CSS3
-- DATABASE
-- Git & GitHub
 
 ---
 
